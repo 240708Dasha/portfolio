@@ -1,0 +1,27 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.image {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+h2 {
+    color: #555;
+}
+.line {
+    width: 850px;
+    height: 5px;
+    background-color: rgba(27, 35, 36, 0.753);
+    border-radius: 50px;
+    margin:auto;
+}
+.rectangle {
+    width: 850px;
+    height: 230px;
+    background-color: rgba(196, 195, 195, 0.726);
+    margin: auto;
+}
